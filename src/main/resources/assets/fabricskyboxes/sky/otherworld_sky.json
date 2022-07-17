@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 2,
+  "type": "single-sprite-square-textured",
+  "texture": "legacy:textures/environment/skybox.png",
+  "blend": true,
+  "properties": {
+    "fade": {
+      "startFadeIn": 23000,
+      "endFadeIn": 23250,
+      "startFadeOut": 23000,
+      "endFadeOut": 23250
+    },
+    "rotation": {
+      "axis": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "decorations": {
+    "sun": "legacy:textures/environment/sun.png",
+    "moon": "legacy:textures/environment/moon_phases.png",
+    "showSun": false,
+    "showMoon": true,
+    "showStars": true
+  },
+  "conditions": {
+    "worlds": [
+      "legacy:otherworld"
+    ]
+  }
+}

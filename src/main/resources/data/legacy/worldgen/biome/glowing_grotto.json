@@ -1,0 +1,80 @@
+{
+  "temperature": 0.5,
+  "downfall": 0,
+  "precipitation": "none",
+  "category": "underground",
+  "effects": {
+    "sky_color": 11516382,
+    "fog_color": 9490609,
+    "water_color": 8101062,
+    "water_fog_color": 2239285,
+    "foliage_color": 3253598,
+    "grass_color": 3253598,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "music": {
+      "sound": "minecraft:music.overworld.dripstone_caves",
+      "min_delay": 8000,
+      "max_delay": 16000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:soul"
+      },
+      "probability": 0.0001
+    }
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "legacy:lake_gabbro",
+      "legacy:lake_grimstone"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legacy:deposit_nickel",
+      "legacy:deposit_tin",
+      "legacy:deposit_zinc"
+    ],
+    [
+      "legacy:cyanescen_flat",
+      "legacy:cyanescen_big",
+      "legacy:patch_zoysia_peaks"
+    ],
+    [
+      "legacy:spring_otherworld"
+    ],
+    [
+      "legacy:cyanescen_flat",
+      "legacy:cyanescen_big",
+      "legacy:patch_zoysia_peaks"
+    ],
+    []
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "legacy:block/lush_gabbro"
+      },
+      {
+        "model": "legacy:block/lush_gabbro",
+        "y": 90
+      },
+      {
+        "model": "legacy:block/lush_gabbro",
+        "y": 180
+      },
+      {
+        "model": "legacy:block/lush_gabbro",
+        "y": 270
+      },
+      {
+        "model": "legacy:block/lush_gabbro_2"
+      },
+      {
+        "model": "legacy:block/lush_gabbro_2",
+        "y": 90
+      },
+      {
+        "model": "legacy:block/lush_gabbro_2",
+        "y": 180
+      },
+      {
+        "model": "legacy:block/lush_gabbro_2",
+        "y": 270
+      }
+    ]
+  }
+}

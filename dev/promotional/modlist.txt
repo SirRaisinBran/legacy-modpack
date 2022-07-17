@@ -1,0 +1,48 @@
+MODS
+
+- Fabric API 
+- Sodium
+- Indium
+- Lithium
+- Hudium
+- Iris Shaders
+- Hydrogen ( NOT UPDATED TO 1182)
+- LamDynamicLights (Glowing Glare)
+- Starlight (Possible compatibility issue with LDL above)
+- BetterThirdPerson
+- Presence Footsteps
+- Main Menu Credits
+- ClearDespawn
+- MidnightControls
+- Isometric Renders
+- Rainbowify
+- Enhanced Attack Indicator
+- Custom Splash Screen
+- InvMove
+- Better Biome Blend
+- Crowmap
+- True Darkness
+- AutoRun
+- Unforgiving Void
+- Loading Screen Tips
+- BlueMap
+- Sparkle!
+- Freecam
+- Shimmer (another light mod)
+- Easy Loading Screen
+- Custom Crosshair
+- Game Phases
+- InControl
+- Travelers Titles
+
+For Features
+- Geckolib (Models & Animations)
+- FabricSkyboxes
+- Continuity (Connected Textures)
+- Falling Leaves (Leaves particle)
+- Owo-lib (sub-item groups)
+- Patchouli (story progression?)
+- Custom Fog / Simple Fog Control
+- Windchimes
+
+- Create

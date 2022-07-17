@@ -1,0 +1,79 @@
+{
+  "temperature": 0.5,
+  "downfall": 0,
+  "precipitation": "none",
+  "category": "underground",
+  "effects": {
+    "sky_color": 9935791,
+    "fog_color": 5398618,
+    "water_color": 7176589,
+    "water_fog_color": 329011,
+    "foliage_color": 7701617,
+    "grass_color": 7701617,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    },
+    "music": {
+      "sound": "minecraft:music.overworld.lush_caves",
+      "min_delay": 8000,
+      "max_delay": 16000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:underwater"
+      },
+      "probability": 0.003
+    }
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "legacy:lake_gabbro"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+      "legacy:deposit_nickel",
+      "legacy:deposit_tin",
+      "legacy:deposit_zinc"
+    ],
+    [
+      "legacy:patch_tall_zoysia",
+      "legacy:white_fungi_woods",
+      "legacy:thismia_patch"
+    ],
+    [
+      "legacy:spring_otherworld"
+    ],
+    [
+      "legacy:patch_tall_zoysia",
+      "legacy:white_fungi_woods",
+      "legacy:thismia_patch"
+    ],
+    []
+  ]
+}

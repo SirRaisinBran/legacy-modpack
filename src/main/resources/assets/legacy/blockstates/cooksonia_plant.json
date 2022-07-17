@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "legacy:block/cooksonia_bottom"
+    },
+    "half=upper": {
+      "model": "legacy:block/cooksonia_top"
+    }
+  }
+}
